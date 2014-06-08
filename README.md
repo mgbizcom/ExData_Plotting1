@@ -34,7 +34,7 @@ web site</a>:
 </ol>
 
 
-The scripts, located in the "code" folder (plot1.R, plot2.R, plot3.R, and plot4.R)
+The scripts, located in the "code" folder (plot1.R, plot2.R, plot3.R, and plot4.R), 
 will produce the following figures (located in the "figures" folder):
 
 
