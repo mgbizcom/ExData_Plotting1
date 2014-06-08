@@ -1,7 +1,7 @@
 # =====================================================================
-# Coursera - Exporatory Data Analysis
+# Coursera - Exploratory Data Analysis
 # Project 1 - plot4.R
-# 6/6/2014
+# 6/8/2014
 # =====================================================================
 
 # ---------------------------------------------------------------------
@@ -67,7 +67,7 @@ plot(power_data$datetime, power_data$Global_active_power,
      type="l", 
      main="", 
      xlab="",
-     ylab="Global Active Power (kilowatts)" )
+     ylab="Global Active Power" )
 
 plot(power_data$datetime, power_data$Voltage, 
      type="l", 
